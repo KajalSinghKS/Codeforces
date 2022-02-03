@@ -1,8 +1,10 @@
+/* 
 x           min. steps
 1  to 5   - 1 step
 6  to 10  - 2 steps
 11 to 15  - 3 steps
 16 to 20  - 4 steps  and so on.
+*/
 
 
 #include<iostream>
