@@ -1,3 +1,5 @@
+//shortest permutation will be the sorted array. 
+
 #include<iostream>
 using namespace std;
  
@@ -54,7 +56,7 @@ int main()
                     
                     reverse(p,l,r); //instead of just swapping p[l] and p[r] like in insertion sort, reverse the subarray.
             
-                    break;
+                    break; 
                 }
                     
             }
